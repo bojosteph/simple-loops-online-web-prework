@@ -12,7 +12,7 @@ def loop_iterator(number_of_times)
     number_of_times = number_of_times + 1 
   phrase = "Welcome to Flatiron School's Web Development Course!"
   puts = phrase
-  
+  if number_of_times
 end
 
 def times_iterator(number_of_times)
